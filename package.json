@@ -1,0 +1,7 @@
+{
+  "scripts" : {
+    "start" : "Name=default nodemon index.js",
+     "poor" : "Name=poor nodemon index.js",
+    "pro" : "Name=production nodemon index.js"
+  }
+}
