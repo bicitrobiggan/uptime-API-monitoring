@@ -18,9 +18,9 @@ Environment.default = {
   SecretKey: "hjibjihijibiji",
   maxChenge: 5,
   twilio: {
-    fromPhone: "+17755425652",
-    accountSid: "ACf0734c1a1a2421d22bbaa30d2b15220d",
-    authToken: "cdd959a0419e7a0abd5773a438c5c9c5",
+    fromPhone: "{a twilio provided phone number)",
+    accountSid: "{Account SID}",
+    authToken: "{Auth Token}",
   },
 };
 
@@ -30,9 +30,9 @@ Environment.production = {
   SecretKey: "bijihijibjihji",
   maxChenge: 5,
   twilio: {
-    fromPhone: "+17755425652",
-    AccountSid: "ACf0734c1a1a2421d22bbaa30d2b15220d",
-    authToken: "cdd959a0419e7a0abd5773a438c5c9c5",
+    fromPhone: "{a twilio provided phone number)",
+    accountSid: "{Account SID}",
+    authToken: "{Auth Token}",
   },
 };
 
